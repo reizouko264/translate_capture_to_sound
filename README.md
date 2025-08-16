@@ -5,4 +5,5 @@ GEMINIのAPIキーを環境変数に設定する。
 
 # TESSERACTのインストールとパスの指定が必要。
 .env
-TESSERACT_CMD_PATH = "C:/Users/XXXXXX/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
+
+    TESSERACT_CMD_PATH = "C:/Users/XXXXXX/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
